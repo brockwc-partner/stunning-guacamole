@@ -1,0 +1,1 @@
+console.log("This file would contain JS for Homepage elements")
